@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Build outputs
+dist/
+.cache/
+.vite/
+.vite-temp/
+
+# Local env
+.env.local
+.env.*.local
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Optional: if you prefer not to version the built docs, uncomment next line
+# docs/
